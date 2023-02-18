@@ -86,6 +86,11 @@ p{
 
 @media (max-width: 767px){
 
+main{
+    margin: 8rem 0;
+    height: 80vh;
+}
+
 br{
     display: none;
 }
