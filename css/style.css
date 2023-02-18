@@ -86,15 +86,12 @@ p{
 
 @media (max-width: 767px){
 
-main{
-    padding-top: 1rem;
-}
-
 br{
     display: none;
 }
 
 .container{
+    margin: 2rem 6rem;
     flex-direction: column;
 }
 
